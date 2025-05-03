@@ -2,6 +2,10 @@
 
 A responsive single-page web application built using HTML, CSS, and JavaScript. This project was developed as part of an internship assignment to demonstrate proficiency in frontend development and responsive design principles.
 
+## 🔗 Live Demo
+
+View the live project here: [InventoryZen Live](https://inventory-zen-assignment.vercel.app/)
+
 ## 📁 Project Structure
 
 ```
@@ -24,10 +28,6 @@ inventoryZen--Assignment/
 - **Responsive Design**: Ensures optimal viewing experience across various devices (desktops, tablets, and mobile phones).
 - **Interactive Elements**: Includes dynamic components to enhance user engagement.
 - **Clean and Organized Code**: Follows best practices for HTML, CSS, and JavaScript to maintain readability and scalability.
-
-## 📸 Screenshots
-
-_Include screenshots of your application here to showcase its design and functionality._
 
 ## 🛠️ Technologies Used
 
